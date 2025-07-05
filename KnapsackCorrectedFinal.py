@@ -1,4 +1,4 @@
-# Max Heitzman & Hayden McKinney
+# Max Heitzman
 # CS 3364 – Dr. Chinta
 # Final Project – Part 2: Intergalactic Zoo Trip (0/1 Knapsack)
 
